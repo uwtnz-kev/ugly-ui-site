@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (!img || !img.src) {
     console.warn('Place an ugly UI screenshot at assets/ugly.png');
   } else {
-    console.log('Screenshot present:', img.src)
+    console.log('Screenshot present:', img.src);
   }
 });
 
