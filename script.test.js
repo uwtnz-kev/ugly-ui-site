@@ -8,5 +8,5 @@ test('animateBackground function should be defined', () => {
 
 // 🚫 Failing test (we’ll fix this later)
 test('intentional failure test', () => {
-  expect(2 + 2).toBe(5);
+  expect(2 + 2).toBe(4);
 });
