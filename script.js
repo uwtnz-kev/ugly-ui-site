@@ -1,4 +1,4 @@
-// script.js
+// script.j
 // Animated background + safe export for Jest testing
 
 function animateBackground(options = {}) {
