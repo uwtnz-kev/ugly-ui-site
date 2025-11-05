@@ -1,12 +1,13 @@
 {
   "name": "ugly-ui-site",
   "version": "1.0.0",
-  "private": true,
-  "devDependencies": {
-    "eslint": "^8.50.0"
-  },
   "scripts": {
-    "lint": "eslint . --ext .js"
-  }
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "jest": "^29.0.0"
+  },
+  "type": "commonjs"
 }
-
